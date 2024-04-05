@@ -10,7 +10,7 @@ let song1, song2;
 
 function preload() {
     song1 = loadSound("harrypotter song.mp3");
-    song2 = loadSound("Peter pan.mp3");
+    song2 = loadSound("Peter Pan.mp3");
 }
 
 function setup() {
